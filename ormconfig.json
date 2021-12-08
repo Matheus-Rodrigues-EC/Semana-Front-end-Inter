@@ -1,0 +1,12 @@
+{
+    "nome": "default",
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "usernmae": "admin",
+    "password": "dio-inter",
+    "database": "inter",
+    "entities": ["src/entity/*.ts"],
+    "logging": false,
+    "synchronize": true
+}
